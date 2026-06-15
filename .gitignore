@@ -1,5 +1,8 @@
 *.temp*
 
+# Local envonment modules
+.venv
+
 # Compiled source #
 ###################
 *.com
